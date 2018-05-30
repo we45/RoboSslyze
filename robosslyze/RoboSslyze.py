@@ -24,7 +24,7 @@ class RoboSslyze(object):
 
         '''
         try:
-            tester = ServerConnectivityTester(hostname = hostname, port = port)
+            tester = ServerConnectivityTester(hostname=hostname, port=port)
             server_info = tester.perform()
 
             scanner = ConcurrentScanner()

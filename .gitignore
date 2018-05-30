@@ -2,3 +2,9 @@
 test/log.html
 test/output.xml
 test/report.html
+robosslyze/RoboSslyze.egg-info/dependency_links.txt
+robosslyze/RoboSslyze.egg-info/PKG-INFO
+robosslyze/RoboSslyze.egg-info/requires.txt
+robosslyze/RoboSslyze.egg-info/SOURCES.txt
+robosslyze/RoboSslyze.egg-info/top_level.txt
+dist/RoboSslyze-0.9.tar.gz
